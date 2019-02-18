@@ -51,8 +51,8 @@ class Game
 
     def menu 
         puts "Welcome to Black Jack"
-        # puts @player
-        # puts @dealer
+        puts @player
+        puts @dealer
         puts "How much will you bet?"
         bet = gets.to_i
         puts "Hit or Stay?"
