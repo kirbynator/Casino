@@ -63,6 +63,7 @@ class Game
     def cards_total(cards)
         
         total >= 21 
+    
         
         # take the rank and add it to total
             # if its high card convert that to 10/11
