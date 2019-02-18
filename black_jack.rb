@@ -64,7 +64,6 @@ class Game
         
         total >= 21 
     
-        
         # take the rank and add it to total
             # if its high card convert that to 10/11
         # return total
